@@ -56,7 +56,7 @@ Follow these instructions to set up the project locally.
 
 ## Example
 
-![Preview](preview.png) <!-- Replace this with an actual screenshot of your project -->
+![Preview](preview.jpeg) <!-- Replace this with an actual screenshot of your project -->
 
 ## Contributing
 
@@ -76,5 +76,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any inquiries, please reach out to:
 
 - Email: syedabdullahzaidi473@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/syed-abdullah-zaidi-a281552b5/) <!-- Replace with your actual LinkedIn profile -->
-```
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/syed-abdullah-zaidi-a281552b5/)
