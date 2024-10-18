@@ -76,4 +76,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any inquiries, please reach out to:
 
 - Email: syedabdullahzaidi473@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/syed-abdullah-zaidi-a281552b5/)
+- LinkedIn: [MY LinkedIn Profile](https://www.linkedin.com/in/syed-abdullah-zaidi-a281552b5/)
